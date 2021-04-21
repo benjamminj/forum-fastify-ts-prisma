@@ -63,3 +63,10 @@ test/types/index.js
 
 # compiled app
 dist
+
+# db
+db.sql
+db.test.sql
+
+# environment
+.env
